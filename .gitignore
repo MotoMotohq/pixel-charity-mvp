@@ -1,0 +1,23 @@
+node_modules/
+frontend/node_modules/
+dist/
+build/
+.vite/
+.env
+.env.local
+.DS_Store
+
+# Hardhat / solidity build artifacts
+artifacts/
+cache/
+build-info/
+*.dbg.json
+*.json
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
